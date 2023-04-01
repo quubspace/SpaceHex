@@ -2,7 +2,11 @@
 
 SpaceHeX is an open-source, hyper-modular space hardware platform designed to simplify the development and assembly of space satellites, rovers, drones, and experimental computing systems. The platform provides a flexible, accessible, and efficient solution for engineers, researchers, hobbyists, and students interested in space technology and hardware development.
 
-![SpaceHeX Overview Image](./images/spacehex_overview.png)
+<center>
+
+![SpaceHeX Overview Image](./img/spacehex_main.jpg)
+
+</center>
 
 ## Features
 
